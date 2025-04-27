@@ -4,7 +4,6 @@
   <img src="https://media2.giphy.com/media/J63rXh7iJPR84/giphy.gif?cid=ecf05e47b09wo3nixgq2z8k96jxdc1ahl52dc4arppm94fs6&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
 
 ## :disguised_face: About Me:
 >- :bearded_person: Aleksey Shestakov
