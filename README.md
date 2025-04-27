@@ -17,9 +17,15 @@
 <h2> Technical Skills 🛠 </h2>
 
 <div>
-  <a> <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg'> </a>
-  <a> <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
-  <a> <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg'> </a>
-  <a> <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg'> </a>
-  <a> <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg'> </a>
+  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
 </div>
+
