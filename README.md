@@ -7,7 +7,7 @@
 
 ## :disguised_face: About Me:
 >- :bearded_person: Aleksey Shestakov
->- :desktop_computer: Backend Developer
+>- :desktop_computer: Frontend Developer
 >- :man_student: NSTU Applied Mathematics and Computer science + School 21
 >- :city_sunrise: Novosibirsk, Russia
 >
