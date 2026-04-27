@@ -17,7 +17,6 @@
 <h2> Technical Skills 🛠 </h2>
 
 <div>
-  <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
   <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
   <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
   <a> <img width ='64px' src ='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'> </a>
