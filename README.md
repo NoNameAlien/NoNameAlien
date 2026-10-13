@@ -25,11 +25,9 @@
   <a href="https://www.python.org/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt="Python"> </a>
   <a href="https://flutter.dev/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg' alt="Flutter"> </a>
   <a href="https://react.dev/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt="React"> </a>
-  <a href="https://nodejs.org/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt="Node.js"> </a>
   <a href="https://www.gnu.org/software/bash/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' alt="Bash"> </a>
   <a href="https://git-scm.com/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt="Git"> </a>
   <a href="https://www.docker.com/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' alt="Docker"> </a>
-  <a href="https://kubernetes.io/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg' alt="Kubernetes"> </a>
   <a href="https://www.postgresql.org/"> <img width='64px' src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' alt="PostgreSQL"> </a>
 </div>
 
